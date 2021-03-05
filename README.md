@@ -20,5 +20,6 @@ Get the latest version and there will be a TPP file you can download. From Touch
 
 To enable Wake On Lan on your devices please use this guide: https://www.pcmag.com/how-to/how-to-turn-your-computer-on-from-across-the-house
 
+* Make Sure That Your AntiVirus Doesnt Block The Plugin (its a bug with the convertor i use)
 
 Any Donations are welcome at www.paypal.me/ElyOshri
