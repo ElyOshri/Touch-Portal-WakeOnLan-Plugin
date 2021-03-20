@@ -22,4 +22,9 @@ To enable Wake On Lan on your devices please use this guide: https://www.pcmag.c
 
 * Make Sure That Your AntiVirus Doesnt Block The Plugin (its a bug with the convertor i use)
 
+## Plugin Settings
+
+* Enable Log: If You Want To Troubleshoot This Would Create A Log("On" or "Off") .
+* Enable Auto Update: If You Want The Plugin To Search For A New Version Every Time It Starts("On" or "Off")
+
 Any Donations are welcome at www.paypal.me/ElyOshri
