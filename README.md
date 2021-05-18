@@ -1,6 +1,10 @@
 # Touch-Portal-WakeOnLan-Plugin
 WakeOnLan Plugin For Touch Portal 
 
+[![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/ElyOshri/Touch-Portal-WakeOnLan-Plugin?include_prereleases&label=Release)](https://github.com/ElyOshri/Touch-Portal-WakeOnLan-Plugin/releases/tag/v1.1.1)
+[![Downloads](https://img.shields.io/github/downloads/ElyOshri/Touch-Portal-WakeOnLan-Plugin/total?label=Downloads)](https://github.com/ElyOshri/Touch-Portal-WakeOnLan-Plugin/releases)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.me/ElyOshri1)
+
 ## Overview
 
 This plugin is for turning on devices by using the internet or local network and turning off the main pc its running on
@@ -27,4 +31,4 @@ To enable Wake On Lan on your devices please use this guide: https://www.pcmag.c
 * Enable Log: If You Want To Troubleshoot This Would Create A Log("On" or "Off") .
 * Enable Auto Update: If You Want The Plugin To Search For A New Version Every Time It Starts("On" or "Off")
 
-Any Donations are welcome at www.paypal.me/ElyOshri
+Any Donations are welcome at www.paypal.me/ElyOshri1
